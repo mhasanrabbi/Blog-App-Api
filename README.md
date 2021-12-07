@@ -51,9 +51,9 @@ Start the server
 ```
 
 
-## Server Side
+## Client Side
 
-Get the server side code
+Get the client side code
 
 [Frontend repo](https://github.com/mhasanrabbi/Blog-App-Client)
 
